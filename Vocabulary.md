@@ -13,3 +13,7 @@
 <details><summary>voucher</summary><div>
 保証人、券、領収書
 </div></details>
+
+<details><summary>feature</summary><div>
+<V>～を呼び物とする
+</div></details>
