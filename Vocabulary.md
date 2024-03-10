@@ -51,3 +51,7 @@
 <details><summary>right across ~</summary><div>
 ～の真向かい
 </div></details>
+
+<details><summary>turn away ~</summary><div>
+～を受け入れない
+</div></details>
