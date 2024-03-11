@@ -34,6 +34,10 @@
 <details><summary>lamppost</summary><div>
 街灯
 </div></details>
+
+<details><summary>procedure</summary><div>
+手順
+</div></details>
   
 ## 熟語
 <details><summary>point at ~</summary><div>
@@ -54,4 +58,8 @@
 
 <details><summary>turn away ~</summary><div>
 ～を受け入れない
+</div></details>
+
+<details><summary>issue a refund</summary><div>
+返金する
 </div></details>
