@@ -38,7 +38,15 @@
 <details><summary>procedure</summary><div>
 手順
 </div></details>
-  
+
+<details><summary>apparently</summary><div>
+どうやら
+</div></details>
+
+<details><summary>distributor</summary><div>
+販売代理店
+</div></details>
+
 ## 熟語
 <details><summary>point at ~</summary><div>
 ～を指す
