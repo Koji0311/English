@@ -47,6 +47,10 @@
 販売代理店
 </div></details>
 
+<details><summary>organizer</summary><div>
+主催者
+</div></details>
+
 ## 熟語
 <details><summary>point at ~</summary><div>
 ～を指す
@@ -68,6 +72,14 @@
 ～を受け入れない
 </div></details>
 
+<details><summary>bother Ving</summary><div>
+わざわざ～する
+</div></details>
+
 <details><summary>issue a refund</summary><div>
 返金する
+</div></details>
+
+<details><summary>see if ~</summary><div>
+～かどうか確認する
 </div></details>
