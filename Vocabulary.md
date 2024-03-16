@@ -51,6 +51,15 @@
 主催者
 </div></details>
 
+<details><summary>loyalty card</summary><div>
+ポイントカード　loyal : 忠実な、（toeicでは）お得意様な感じ
+</div></details>
+
+<details><summary>minute</summary><div>
+議事録、覚え書き
+</div></details>
+
+
 ## 熟語
 <details><summary>point at ~</summary><div>
 ～を指す
@@ -82,4 +91,8 @@
 
 <details><summary>see if ~</summary><div>
 ～かどうか確認する
+</div></details>
+
+<details><summary>put up</summary><div>
+掲示する、上げる
 </div></details>
